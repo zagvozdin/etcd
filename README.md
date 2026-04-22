@@ -1,1 +1,1 @@
-etcd related scipts
+etcd related scripts
